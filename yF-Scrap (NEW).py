@@ -205,8 +205,9 @@ df_tr13 = pd.DataFrame(price_data)
 #for row in price_data[:5]:
    # print(row)
 
-book = load_workbook('/Users/ryan_summers/Documents/Stock Analysis/Fundamental Analysis.xlsx')
-writer = pd.ExcelWriter('/Users/ryan_summers/Documents/Stock Analysis/Fundamental Analysis.xlsx', engine='openpyxl')
+path() # careate file path here
+book = load_workbook(path) # file 
+writer = pd.ExcelWriter(path, engine='openpyxl')
 writer.book = book
 writer.sheets = {ws.title: ws for ws in book.worksheets}
 
