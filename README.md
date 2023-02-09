@@ -2,7 +2,7 @@
 
 How it started:
 
-I've always been interested in coding and decided to start my adventure in programming with Python about two years ago. I am currently a finance professional who enjoys analyzing the financials of companies and learning what makes them successful.  During the pandemic, I took the extra time I gained from being able to work from home to start a project that would bridge my interest in finance and coding. Voila! here it is.
+I've always been interested in coding and decided to start my adventure in programming with Python about two years ago. During the pandemic, I took the extra time I gained from being able to work from home to start a project that would bridge my interest in finance and coding. Voila! here it is.
 
 # How it's going:
 
